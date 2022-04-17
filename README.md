@@ -2,4 +2,4 @@
 Recommendation Systems Learning
 
 
-Colleaction of notebooks
+Collection of notebooks - python
